@@ -1,0 +1,9 @@
+{
+    "db_kind" : "postgresql",
+    "db_kind_go" : "postgres", 
+    "user" : "root", 
+    "pwd" : "root", 
+    "host" : "127.0.0.1", 
+    "port" : "5432", 
+    "db_name" : "test"
+}

@@ -1,0 +1,11 @@
+CREATE USER root WITH SUPERUSER PASSWORD 'root';
+
+CREATE DATABASE test;
+
+\c test;
+
+CREATE TABLE test (
+    id SERIAL PRIMARY KEY,
+    json_field JSON NOT NULL,
+    time_stamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
