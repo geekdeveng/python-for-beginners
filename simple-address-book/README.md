@@ -1,23 +1,9 @@
 # simple address book
 
-
-***
-
-### How to proceed
-```text
-The detailed procedure is as follows.
-```
-1. Read the domain requirements and check what needs to be done.
-2. Please check the technical requirements to see what technical considerations need to be taken during implementation.
-3. Fork from the assignment repository to your own github.
-4. The task is to develop DB, model design, and API.
-5. When the work is completed, please reply to the email with a link to your personal repository.
-
 ***
 ### Domain Requirements
 
 ```text
-Please implement address book and contact details.
 It may be easier to understand if you refer to Google's address book (https://contacts.google.com).
 ```
 - address book
